@@ -58,44 +58,51 @@ Adicionar video e documentos nessa seção
 # Backlog do produto
 
 ## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+> [x] Kick Off
+> 
+> [x] Visita
+> 
+> [x] Análise da problemática
+> 
+> [x] Planejamento
+> 
+> [x] Elaboração dos Slides e Vídeo
+> 
+> [x] Apresentação
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
+> [x] Análise da 1ª Sprit
+> 
+> [x] Planejamento da 2ª Sprint
+> 
+> [x] Elaboração dos Slides e Vídeo
+> 
+> [x] Apresentação
+> 
 ## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+> Após feedback do parceiro institucional, fizemos outra visita no estabelecimento, apresentaremos outras sugestões de melhorias e buscar outras formas que possam ajudar no aumento das   vendas online.
+> 
+> [x] Análise da 2ª Sprit
+> 
+> [x] Planejamento da 3ª Sprint
+> 
+> [x] Elaboração dos Slides e Vídeo
+> 
+> [x] Apresentação
+> 
       
 ## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+-Fazer análise das propostas apresentadas e analisar quais pontos dar prioridade.
+>
+>[x] Análise da 3ª Sprit
+>
+>[x] Planejamento da 4ª Sprint
+>
+>[x] Elaboração dos Slides e Vídeo
+>
+>[x] Apresentação
+>
+
 
 
 
