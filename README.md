@@ -80,7 +80,7 @@ Adicionar video e documentos nessa seção
 > [x] Apresentação
 > 
 ## Sprint 3 . Implementação
-> Após feedback do parceiro institucional, fizemos outra visita no estabelecimento, apresentaremos outras sugestões de melhorias e buscar outras formas que possam ajudar no aumento das   vendas online.
+
 > 
 > [x] Análise da 2ª Sprit
 > 
@@ -92,7 +92,7 @@ Adicionar video e documentos nessa seção
 > 
       
 ## Sprint 4. Operacionalização
--Fazer análise das propostas apresentadas e analisar quais pontos dar prioridade.
+
 >
 >[x] Análise da 3ª Sprit
 >
