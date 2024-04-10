@@ -130,12 +130,12 @@ Adicionar video e documentos nessa seção
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Liderança| ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
 
 </details>
 
