@@ -55,8 +55,6 @@ Adicionar video e documentos nessa seção
 ## Sprint 1. Concepção
 > [x] Kick Off
 > 
-> [x] Visita
-> 
 > [x] Análise da problemática
 > 
 > [x] Planejamento
