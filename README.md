@@ -84,16 +84,16 @@ Adicionar video e documentos nessa seção
 > [x] Apresentação
 > 
       
-## Sprint 4. Operacionalização
+## Feira de soluções
 
 >
->[x] Análise da 3ª Sprit
->
->[x] Planejamento da 4ª Sprint
->
->[x] Elaboração dos Slides e Vídeo
->
->[x] Apresentação
+> [x] Análise das sprints
+> 
+> [x] Planejamento da feira de soluções
+> 
+> [x] Elaboração dos Slides e Vídeo
+> 
+> [x] Apresentação
 >
 
 
