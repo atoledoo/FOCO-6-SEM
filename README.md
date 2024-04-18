@@ -61,16 +61,16 @@ Adicionar video e documentos nessa seção
 > 
 > [x] Classificação dos dados de produtividade e otimização de distribuição
 >
-> [x] Apresentação
+> [x] Elaboração dos Slides e Vídeo
 
 ## Sprint 2. Desenvolvimento do Projeto
 > [x] Análise da 1ª Sprit
 > 
-> [x] Planejamento da 2ª Sprint
+> [x] Planejamento da 2ª Sprint com revisão dos dados 
+> 
+> [x] Criação e modelagem do banco de dados
 > 
 > [x] Elaboração dos Slides e Vídeo
-> 
-> [x] Apresentação
 > 
 ## Sprint 3 . Implementação
 
@@ -78,10 +78,12 @@ Adicionar video e documentos nessa seção
 > [x] Análise da 2ª Sprit
 > 
 > [x] Planejamento da 3ª Sprint
+>
+>  [x] Elaboração dos indicadores no Power BI
 > 
 > [x] Elaboração dos Slides e Vídeo
 > 
-> [x] Apresentação
+> [x] Apresentação Final
 > 
       
 ## Feira de soluções
