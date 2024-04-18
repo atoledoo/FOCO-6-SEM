@@ -42,24 +42,25 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-* Power BI
-* Microsoft Excel
 * Slack
-
-
-
+* Github
+* Jira Software
+* SQL
+* Power BI
+  
 # Backlog do produto
 
 ## Sprint 1. Concepção
 > [x] Kick Off
 > 
-> [x] Análise da problemática
+> [x] Introdução no Jira e Github
 > 
 > [x] Planejamento
 > 
-> [x] Elaboração dos Slides e Vídeo
+> [x] Analise dos dados fornecidos pelo cliente 
 > 
+> [x] Classificação dos dados de produtividade e otimização de distribuição
+>
 > [x] Apresentação
 
 ## Sprint 2. Desenvolvimento do Projeto
