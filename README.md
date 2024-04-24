@@ -111,7 +111,7 @@ Adicionar video e documentos nessa seção
 </details>
 
 # Equipe
-
+![imagem](https://github.com/thiagonakasone/FOCO-6-SEM/blob/0958a1f9a127965b3184eca1ffe018d105fb8f2d/TEAM%20(1).jpg)
 
 
 ## 👜 Autores
