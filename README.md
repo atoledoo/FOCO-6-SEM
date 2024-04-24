@@ -11,12 +11,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
+# ✏ Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
-Sprint | Previsão | Status|
+📅 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 10/04/2024 |Concluído|
 |Sprint 1 |08/05/2024 | Em andamento|
@@ -48,7 +48,7 @@ Adicionar video e documentos nessa seção
 * SQL
 * Power BI
   
-# Backlog
+## 🎯 Backlog
 
 ## Sprint 1.
 > [x] Analise dos dados fornecidos pelo cliente 
@@ -73,12 +73,12 @@ Adicionar video e documentos nessa seção
 > [x] Apresentação Final
 > 
       
-## Feira de soluções
+## 🏆 Feira de soluções
 
 > [x] Síntese dos Resultados Obtidos nas Sprints
 
   
-# Competências desenvolvidas
+# 🚀 Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
 <details>
