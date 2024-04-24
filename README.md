@@ -1,4 +1,4 @@
-![imagem](https://github.com/thiagonakasone/FOCO-6-SEM/blob/c130f55d2edaf0b7aa0554805091f98f7dbea329/F.png)
+![image](https://github.com/thiagonakasone/FOCO-6-SEM/blob/2b6f5c194ee6a7f93b8638572843e4b13a989732/F.png)
 # Aprendizado por Projeto Integrado (API) 
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
