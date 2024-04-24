@@ -4,7 +4,7 @@ Template para os projetos de API, ensinando na utilização do repositório digi
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice
+# 🗂 Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
@@ -28,7 +28,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 
-# Objetivo do Projeto
+## 🔎 Objetivo do Projeto
 Este projeto tem como objetivo analisar a produtividade de veículos, otimização de distribuição e custo de rotas de uma empresa embarcadora de carga.
 
 
@@ -48,7 +48,7 @@ Adicionar video e documentos nessa seção
 * SQL
 * Power BI
   
-## 🎯 Backlog
+## ⚙ Backlog
 
 ## Sprint 1.
 > [x] Analise dos dados fornecidos pelo cliente 
@@ -110,7 +110,7 @@ Adicionar video e documentos nessa seção
 
 </details>
 
-# Autores
+##👜 Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |Product Owner| Raiara Matias| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
