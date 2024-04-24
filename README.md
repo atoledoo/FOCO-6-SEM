@@ -81,7 +81,7 @@ Adicionar video e documentos nessa seção
   
 # 🚀 Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
+## Hard Skill 
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
@@ -96,9 +96,9 @@ Adicionar video e documentos nessa seção
  
 </details>
 
-## Soft Skill (saber comportamental)
+## Soft Skill
 <details>
-<summary>Soft Skills desenvolvidas</summary>
+<summary>Soft Skills Desenvolvidas>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
