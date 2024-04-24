@@ -48,58 +48,34 @@ Adicionar video e documentos nessa seção
 * SQL
 * Power BI
   
-# Backlog do produto
+# Backlog
 
-## Sprint 1. Concepção
-> [x] Kick Off
-> 
-> [x] Introdução no Jira e Github
-> 
-> [x] Planejamento
-> 
+## Sprint 1.
 > [x] Analise dos dados fornecidos pelo cliente 
 > 
-> [x] Classificação dos dados de produtividade e otimização de distribuição
->
-> [x] Elaboração dos Slides e Vídeo
+> [x] Modelagem de Banco de Dados em SQL
+> 
+> [x] Tela de Produtividade Mensal dos Veículos no Power BI
 
-## Sprint 2. Desenvolvimento do Projeto
-> [x] Análise da 1ª Sprit
+## Sprint 2.
+> [x] Análise e Correção da 1ª Sprit
 > 
-> [x] Planejamento da 2ª Sprint com revisão dos dados 
+> [x] Tela de Evolução de Custos Por KM no Power BI
 > 
-> [x] Criação e modelagem do banco de dados
-> 
-> [x] Elaboração dos Slides e Vídeo
-> 
-## Sprint 3 . Implementação
+## Sprint 3.
 
+> [x]  Análise e Correção da 2ª Sprit
 > 
-> [x] Análise da 2ª Sprit
-> 
-> [x] Planejamento da 3ª Sprint
+> [x] Tela de Evolução por Unidade Transportada por Rota
 >
->  [x] Elaboração dos indicadores no Power BI
-> 
-> [x] Elaboração dos Slides e Vídeo
+>  [x] Dashboard dos indicadores no Power BI
 > 
 > [x] Apresentação Final
 > 
       
 ## Feira de soluções
 
->
-> [x] Análise das sprints
-> 
-> [x] Planejamento da feira de soluções
-> 
-> [x] Elaboração dos Slides e Vídeo
-> 
-> [x] Apresentação
->
-
-
-
+> [x] Síntese dos Resultados Obtidos nas Sprints
 
   
 # Competências desenvolvidas
