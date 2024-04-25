@@ -52,17 +52,19 @@ Adicionar video e documentos nessa seção
 ## ⚙ Backlog
 
 ## Sprint 1.
+> [x] Gerenciamento Jira e Acompanhamento Github
+> 
 > [x] Analise dos dados fornecidos pelo cliente 
 > 
 > [x] Modelagem de Banco de Dados em SQL
 > 
-> [x] Tela de Produtividade Mensal dos Veículos no Power BI
 
 ## Sprint 2.
 > [x] Análise e Correção da 1ª Sprit
 > 
 > [x] Tela de Evolução de Custos Por KM no Power BI
-> 
+>
+> [x] Tela de Produtividade Mensal dos Veículos no Power BI
 ## Sprint 3.
 
 > [x]  Análise e Correção da 2ª Sprit
@@ -111,11 +113,9 @@ Adicionar video e documentos nessa seção
 
 </details>
 
-# Equipe
+## 👜 Equipe
 ![imagem](https://github.com/thiagonakasone/FOCO-6-SEM/blob/0958a1f9a127965b3184eca1ffe018d105fb8f2d/TEAM%20(1).jpg)
 
-
-## 👜 Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |Product Owner| Raiara Matias| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
